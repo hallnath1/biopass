@@ -1,0 +1,101 @@
+html{
+    width:100%;
+    padding:0;
+    margin:0;
+    background-color: #F7F9F9;
+}
+
+body{
+    width:100%;
+    padding:0;
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    margin:0px;
+    margin-bottom: 1vw;
+}
+
+a{
+	text-decoration: none;
+}
+
+#banner{
+    background-color:black;
+    color: white;
+    font-size: 4em;
+    text-align:center;
+    height:8vw;
+}
+
+#banner img{
+    height:100%;
+}
+
+#content{
+    background-color:#ECF0F1;
+    margin:1rem;
+    border-radius:0.75rem;
+    padding: 1rem;
+    text-align: center;
+    display: block;
+    position: relative;
+}
+
+#description{
+    width:60%;
+    color: #676767;
+    font-size: 1em;
+    margin: 0 auto;
+    margin-bottom: 1vw;
+    font-weight: lighter;
+}
+
+.username {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #CCC;
+    color: #555;
+    box-sizing: border-box;
+    width: 30vw;
+    margin: 0 auto;
+    font-size:1.5em;
+    text-align:center;
+    background-color:#ECF0F1;
+}
+
+.username:focus {
+    outline: none;    
+  }
+
+.username:focus+.underline {
+    transform: scale(1);
+}
+
+.underline {
+    background-color: #16E7CF;
+    display: block;
+    height: 0.15vw;
+    margin: 0 auto;
+    transform: scale(0, 1);
+    transition: all 0.5s linear;
+    width: 30vw;
+    margin-bottom: 1vw;
+}
+
+
+.submit{
+    font-size:2em;
+    background-color:#16E7CF;
+    border:0.2vw solid black;
+    margin:1vw auto;
+    width:15vw;
+}
+
+#signOut{
+    font-size: 2.5em;
+    position:absolute;
+    right:1vw;
+    top:1vw;
+}

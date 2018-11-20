@@ -1,0 +1,126 @@
+.accAll{
+    width:76%;
+    margin: 1vw auto;
+    font-size: 1.2em;
+    display: inline-block;
+}
+
+.lineHor{
+    height: 3px;
+    width: 80%;
+    background-color:#94aab1;
+    margin:0 auto;
+}
+
+.accName{
+    float: left; 
+    text-align: left;
+    font-style: oblique;
+}
+.accName *{
+    vertical-align:middle;
+}
+
+.uName{
+    float: left; 
+    text-align: left;
+    font-style: oblique;
+}
+
+
+.divider{
+    float: left;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.passCont{
+    float:left;
+    display:inline-block;
+    color:#4c4c4c;
+}
+
+.buttons{
+    float: right;
+}
+
+.buttons * {
+    margin: 0 1vw;
+}
+
+#newAcc{
+    font-size: 2em;
+    margin:0 auto;
+    padding: 1vw;
+}
+
+#cancel{
+    font-size: 2em;
+    margin:0 auto;
+    padding: 1vw;
+    display: none;
+}
+
+.accNameNew{
+    float:left;
+    font-style: oblique;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #CCC;
+    color: #555;
+    box-sizing: border-box;
+    width: 20vw;
+    font-size:1.2em;
+    text-align:center;
+    background-color:#ECF0F1;
+}
+
+.uNameNew{
+    
+    font-style: oblique;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #CCC;
+    color: #555;
+    box-sizing: border-box;
+    width: 20vw;
+    font-size:1.2em;
+    text-align:center;
+    background-color:#ECF0F1;
+}
+
+.passContNew{
+    float:right;
+    font-style: oblique;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #CCC;
+    color: #555;
+    box-sizing: border-box;
+    width: 20vw;
+    font-size:1.2em;
+    text-align:center;
+    background-color:#ECF0F1;
+}
+
+.passContHidden{
+    display:none;
+}
+
+.restrict{
+    display: block;
+}
+
+p{
+    display: inline-block;
+}
+
+#up{
+    margin-right:0;
+}
+
+#down{
+    margin-left:0;
+    margin-right:0;
+}
+

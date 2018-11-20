@@ -1,0 +1,160 @@
+.camCont{
+    position: relative;
+    margin: auto;
+    height: 41vw;
+}
+
+canvas{ 
+    position: absolute; 
+    background-color: transparent; 
+    display: block; 
+    margin: 0 auto; 
+    left: 0; 
+    right: 0; 
+    padding: 0; 
+}
+
+video{ 
+    position: absolute; 
+    background-color: transparent; 
+    display: none;  
+    margin: 0 auto; 
+    left: 0; 
+    right: 0; 
+    padding: 0; 
+}
+
+#smileDiv{
+    margin: auto;
+    position: absolute;
+    display: none;
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    color: pink;
+    font-size:2em;
+    height: 100%;
+    width: 82.5%;
+    background-color: rgba(22,231,207,0.4);
+}
+
+#smileMessage{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#stopDiv{
+    margin: auto;
+    position: absolute;
+    display: none;
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    color: white;
+    font-size:2em;
+    height: 100%;
+    width: 82.5%;
+    background-color: rgba(255,0,0,0.4);
+}
+
+#stopMessage{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#closerDiv{
+    margin: auto;
+    position: absolute;
+    display: none;
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    color: white;
+    font-size:2em;
+    height: 100%;
+    width: 82.5%;
+    background-color: rgba(100, 100, 100, 0.4);
+}
+
+#closerMessage{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#furtherDiv{
+    margin: auto;
+    position: absolute;
+    display: none;
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    color: white;
+    font-size:2em;
+    height: 100%;
+    width: 82.5%;
+    background-color: rgba(100, 100, 100, 0.4);
+}
+
+#furtherMessage{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#countDiv{
+    margin: auto;
+    position: absolute;
+    display: none;
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    color: white;
+    font-size:2em;
+    height: 100%;
+    width: 82.5%;
+    background-color: rgba(100, 100, 100, 0.4);
+}
+
+#countMessage{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#buttonDiv{
+	text-decoration: none;
+    margin: auto;
+    position: absolute;
+    display: none;
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    color: white;
+    font-size:2em;
+    height: 100%;
+    width: 82.5%;
+    background-color: rgba(0, 255, 0, 0.4);
+}
+
+#buttonMessage{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#stayDiv{
+	text-decoration: none;
+    margin: auto;
+    position: absolute;
+    display: none;
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    color: white;
+    font-size:2em;
+    height: 100%;
+    width: 82.5%;
+    background-color: rgba(255, 0, 255, 0.4);
+}
+
+#stayMessage{
+    display: table-cell;
+    vertical-align: middle;
+}
