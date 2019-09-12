@@ -9,13 +9,12 @@ This project aims to provide a secure and unique alternative to current systems 
 
 ## Details
 
-### Signing Up
 ![](https://github.com/hallnath1/biopass/blob/master/media/Screenshot%202019-09-12%20at%2016.04.11.png)
 
-### Logging In
+* * *
 ![](https://github.com/hallnath1/biopass/blob/master/media/Screenshot%202019-09-12%20at%2016.04.18.png)
 
-### Password Page
+* * *
 ![](https://github.com/hallnath1/biopass/blob/master/media/Screenshot%202019-09-12%20at%2016.04.28.png)
 
 ## Current State of Projet
