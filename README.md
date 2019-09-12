@@ -18,7 +18,8 @@ This project aims to provide a secure and unique alternative to current systems 
 ![](https://github.com/hallnath1/biopass/blob/master/media/Screenshot%202019-09-12%20at%2016.04.28.png)
 
 ***
-![](https://github.com/hallnath1/biopass/blob/master/media/demonstration.mp4)
+### Full Video Breakdown
+https://streamable.com/t030x
 
 ## Current State of Projet
 
