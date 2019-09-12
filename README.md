@@ -27,3 +27,5 @@ This project aims to provide a secure and unique alternative to current systems 
   * Potential for mobile application using a variety of biometrics (face, fingerprint, retina, voice, etc)
   * Improved web scalability for more varied screen sizes
   * Luminosity check to recommend when a light source is required for more accurate scan
+  
+![](https://github.com/hallnath1/biopass/blob/master/media/Screen%20Shot%202018-09-11%20at%2013.06.01.jpg)
