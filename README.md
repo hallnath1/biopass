@@ -1,4 +1,4 @@
-![](https://github.com/hallnath1/biopass/blob/master/media/Screen%20Shot%202018-09-11%20at%2013.06.01.jpg =100x20)
+![](https://github.com/hallnath1/biopass/blob/master/media/Screen%20Shot%202018-09-11%20at%2013.06.01.jpg=100x20)
 **Never remember a password again, make your face do it!**
 
 ## The Project
