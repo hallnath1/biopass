@@ -1,4 +1,4 @@
-# BioPass
+![](https://github.com/hallnath1/biopass/blob/master/media/logo/logo_long.png)
 **Never remember a password again, make your face do it!**
 
 ## The Project
