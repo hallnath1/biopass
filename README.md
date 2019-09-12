@@ -1,6 +1,7 @@
 ![](https://github.com/hallnath1/biopass/blob/master/media/Screen%20Shot%202018-09-03%20at%2016.30.23%20(1).png)
-**Never remember a password again, make your face do it!**
 
+Nobody likes passwords, they are hard to remember, often forgotten or simply aren't secure enough. The solution for now seems to the use of password managers, however the user groups that benifit the most for password managers are unlikely to use the higher friction services of current solutions. 
+This project aims to provide a secure and unique alternative to current systems by the use of biometric technologies.
 ## The Project
   * A web hosted password manager that does not store passwords in anyway (plaintext, hash or encrypted)
   * Passwords are generated through a users unique biometric - currently facial recognition but could be fingerprint in mobile version
