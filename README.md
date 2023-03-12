@@ -18,8 +18,11 @@ This project aims to provide a secure and unique alternative to current systems 
 ![](https://github.com/hallnath1/biopass/blob/master/media/Screenshot%202019-09-12%20at%2016.04.28.png)
 
 ***
-### Full Video Breakdown
-https://streamable.com/t030x
+
+## Demo
+
+https://user-images.githubusercontent.com/37386274/224564171-b8a9cf72-7033-4768-b10b-b49f6b390b3e.mp4
+
 
 ## Current State of Projet
 
@@ -41,9 +44,4 @@ https://streamable.com/t030x
   * Luminosity check to recommend when a light source is required for more accurate scan
   
 ![](https://github.com/hallnath1/biopass/blob/master/media/Screen%20Shot%202018-09-11%20at%2013.06.01.jpg)
-
-## Demo
-
-https://user-images.githubusercontent.com/37386274/224564171-b8a9cf72-7033-4768-b10b-b49f6b390b3e.mp4
-
 
